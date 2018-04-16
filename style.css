@@ -87,3 +87,33 @@ body{
     text-align: center;
 
 }
+.aboutbanner img{
+    max-width:px;
+    width:100%;
+}
+.aboutbanner {
+    background-color: white;
+    padding: 20px 0;
+    text-align: center;
+
+}
+.contactpage{
+    width: 910px;
+    height: 0px;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    color: #934444;
+    float: left;
+    margin-top: 10px;
+}
+.contactpageimg1 img{
+    max-width:920px;
+    width:100%;
+    margin-top:400px;
+}
+.contactpageimg1 {
+    background-color: white;
+    padding: 20px 0;
+    text-align:left;
+}
