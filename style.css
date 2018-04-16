@@ -44,7 +44,7 @@ body{
 }
 .banner {
     background-color: white;
-    padding: 20px 0;
+    padding: 50px 0;
     text-align: center;
 }
 .banner2 img{
@@ -125,5 +125,49 @@ body{
     margin-right: auto;
     color: #934444;
     float: left;
-    margin-top: 100px;
+    margin-top: 20px;
+    text-align: center
+}
+.campaign{
+    width:910px;
+    height:0px;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    color: #934444;
+    float: left;
+    margin-top: 10px;
+    margin-bottom: 100px;
+    
+}
+.illustratorimages img{
+    max-width:700px;
+    width:100%;
+    float:right;
+    margin-bottom:
+}
+.illustratorimages {
+    background-color: white;
+    padding: px 0;
+    text-align:left;
+}
+.map img{
+    max-width:420px;
+    width:100%;
+    float:left;
+}
+.map {
+    background-color: white;
+    padding: 20px 0;
+}
+.harbour img{
+    max-width:420px;
+    width:100%;
+    float:right;
+    height: 253px;
+    margin-bottom: 100px;
+}
+.harbour {
+    background-color: white;
+    padding: 20px 0;
 }
